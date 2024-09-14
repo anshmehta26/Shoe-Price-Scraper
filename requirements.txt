@@ -1,7 +1,7 @@
 bs4==0.0.2
 beautifulsoup4==4.12.3
 curl_cffi==0.7.1
-numpy
+numpy==1.25.2
 pandas==2.2.2
 plotly==5.22.0
 Requests==2.32.3

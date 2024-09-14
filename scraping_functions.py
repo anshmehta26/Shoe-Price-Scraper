@@ -1,5 +1,5 @@
 from urllib.parse import quote_plus, quote
-from bs4 import BeautifulSoup
+from beautifulsoup4 import BeautifulSoup
 from curl_cffi import requests
 import json
 import sqlite3

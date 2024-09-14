@@ -1,4 +1,4 @@
-beautifulsoup4==4.12.3
+bs4==2.5
 curl_cffi==0.7.1
 numpy
 pandas==2.2.2
